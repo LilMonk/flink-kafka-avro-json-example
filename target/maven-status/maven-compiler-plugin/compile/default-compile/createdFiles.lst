@@ -1,0 +1,10 @@
+lilmonk/flink/tutorial/datagen/TemperatureSensor.class
+lilmonk/flink/tutorial/StreamingJob$1.class
+lilmonk/flink/tutorial/schema/PageViewSchema.class
+lilmonk/flink/tutorial/model/Sensor.class
+lilmonk/flink/tutorial/KafkaJsonConsumer.class
+lilmonk/flink/tutorial/BatchJob.class
+lilmonk/flink/tutorial/model/PageView$Builder.class
+lilmonk/flink/tutorial/KafkaAvroConsumer.class
+lilmonk/flink/tutorial/StreamingJob.class
+lilmonk/flink/tutorial/model/PageView.class
