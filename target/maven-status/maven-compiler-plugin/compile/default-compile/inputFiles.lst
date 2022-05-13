@@ -1,8 +1,0 @@
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/KafkaJsonConsumer.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/model/Sensor.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/datagen/TemperatureSensor.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/schema/PageViewSchema.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/model/PageView.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/StreamingJob.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/BatchJob.java
-/Users/rsahoo2/gitRepos/flink-tutorial/src/main/java/lilmonk/flink/tutorial/KafkaAvroConsumer.java
